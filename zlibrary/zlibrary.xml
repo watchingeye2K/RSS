@@ -3,7 +3,22 @@
 <channel>
 <title>Z-Library</title>
 <description>from 2025.03.29</description>
-<lastBuildDate>Thu, 20 Aug 2026 01:39:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 01:47:56 +0000</lastBuildDate>
+<item>
+<title>🟡 09:47 2026.08.20｜已切換至 https://tw.zlib.bz，無新增</title>
+<description><![CDATA[檢查時間：2026-08-20 09:47:04（UTC+8）<br>
+【摘要】一切正常，無新增書本<br>
+<br>
+【候補網域測試紀錄】<br>
+✗ https://z-library.sk → 失敗（html_length=1094、未比對到已知防護頁面特徵字串，原因不明）<br>
+✓ https://tw.zlib.bz → 成功<br>
+⚠ 已從 https://z-library.sk 切換至 https://tw.zlib.bz<br>
+<br>
+【嘗試紀錄】<br>
+第1次 成功]]></description>
+<link>https://tw.zlib.bz/s/?languages[]=traditional+chinese&amp;languages[]=chinese&amp;extensions[]=EPUB&amp;order=date</link>
+<pubDate>Thu, 20 Aug 2026 01:47:04 +0000</pubDate>
+</item>
 <item>
 <title>🔴 09:38 2026.08.20｜執行異常：抓到 0 個 z-bookcard 節點——網站不可能真的沒有書，判定為資料異常</title>
 <description><![CDATA[檢查時間：2026-08-20 09:38:40（UTC+8）<br>
