@@ -3,7 +3,20 @@
 <channel>
 <title>Z-Library</title>
 <description>from 2025.03.29</description>
-<lastBuildDate>Thu, 20 Aug 2026 21:04:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 23:02:01 +0000</lastBuildDate>
+<item>
+<title>🟢 07:01 2026.08.21｜一切正常，無新增書本</title>
+<description><![CDATA[檢查時間：2026-08-21 07:01:35（UTC+8）<br>
+【摘要】一切正常，無新增書本<br>
+<br>
+【候補網域測試紀錄】<br>
+✓ https://tw.zlib.bz → 成功<br>
+<br>
+【嘗試紀錄】<br>
+第1次 成功]]></description>
+<link>https://tw.zlib.bz/s/?languages[]=traditional+chinese&amp;languages[]=chinese&amp;extensions[]=EPUB&amp;order=date</link>
+<pubDate>Thu, 20 Aug 2026 23:01:35 +0000</pubDate>
+</item>
 <item>
 <title>🟡 05:03 2026.08.21｜重試後成功，無新增</title>
 <description><![CDATA[檢查時間：2026-08-21 05:03:34（UTC+8）<br>
