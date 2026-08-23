@@ -3,7 +3,14 @@
   <channel>
     <title>JA_VDB_RSS_v2</title>
     <description></description>
-    <lastBuildDate>Sun, 23 Aug 2026 10:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:49:51 +0000</lastBuildDate>
+    <item>
+      <title>🟢 狀態正常 | 使用 JAVDB_COM | 本次新增 0 筆</title>
+      <link>urn:javdb:status:2026-08-23T15:49:51.853667+00:00</link>
+      <description><![CDATA[執行時間：2026-08-23 23:49 台北時間<br>使用候補：JAVDB_COM<br>本次新增：0 筆]]></description>
+      <guid isPermaLink="false">urn:javdb:status:2026-08-23T15:49:51.853667+00:00</guid>
+      <pubDate>Sun, 23 Aug 2026 15:49:51 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 狀態正常 | 使用 JAVDB_COM | 本次新增 1 筆</title>
       <link>urn:javdb:status:2026-08-23T10:55:15.271935+00:00</link>
