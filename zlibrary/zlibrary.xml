@@ -3,7 +3,20 @@
 <channel>
 <title>Z-Library</title>
 <description>from 2025.03.29</description>
-<lastBuildDate>Mon, 24 Aug 2026 19:45:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 21:06:25 +0000</lastBuildDate>
+<item>
+<title>🟢 05:06 2026.08.25｜一切正常，無新增書本</title>
+<description><![CDATA[檢查時間：2026-08-25 05:06:00（UTC+8）<br>
+【摘要】一切正常，無新增書本<br>
+<br>
+【候補網域測試紀錄】<br>
+✓ https://tw.zlib.bz → 成功<br>
+<br>
+【嘗試紀錄】<br>
+第1次 成功]]></description>
+<link>https://tw.zlib.bz/s/?languages[]=traditional+chinese&amp;languages[]=chinese&amp;extensions[]=EPUB&amp;order=date</link>
+<pubDate>Mon, 24 Aug 2026 21:06:00 +0000</pubDate>
+</item>
 <item>
 <title>海市蜃楼</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/21r34eqzEd/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/0c85d1cdae07765dbcfd27b75924c013c051ca77a96b578e2bda974e37480780.jpg" alt="海市蜃楼" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">内田康夫</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
