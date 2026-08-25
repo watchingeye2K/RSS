@@ -3,187 +3,201 @@
 <channel>
 <title>Z-Library</title>
 <description>from 2025.03.29</description>
-<lastBuildDate>Tue, 25 Aug 2026 03:13:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 03:17:05 +0000</lastBuildDate>
+<item>
+<title>🟢 11:16 2026.08.25｜一切正常，無新增書本</title>
+<description><![CDATA[檢查時間：2026-08-25 11:16:40（UTC+8）<br>
+【摘要】一切正常，無新增書本<br>
+<br>
+【候補網域測試紀錄】<br>
+✓ https://tw.zlib.bz → 成功<br>
+<br>
+【嘗試紀錄】<br>
+第1次 成功]]></description>
+<link>https://tw.zlib.bz/s/?languages[]=traditional+chinese&amp;languages[]=chinese&amp;extensions[]=EPUB&amp;order=date</link>
+<guid isPermaLink="false">zlibrary-1f4cf7cbd7f80af8</guid>
+<pubDate>Tue, 25 Aug 2026 03:16:40 +0000</pubDate>
+</item>
 <item>
 <title>笑着活下去:周星驰喜剧里的人生真相</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/3Jg7ynMLJQ/%E7%AC%91%E7%9D%80%E6%B4%BB%E4%B8%8B%E5%8E%BB%E5%91%A8%E6%98%9F%E9%A9%B0%E5%96%9C%E5%89%A7%E9%87%8C%E7%9A%84%E4%BA%BA%E7%94%9F%E7%9C%9F%E7%9B%B8.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/696cdbf45788b0d63276012c3a116cd9ef27834cf97b56281b109dde55dfa357.jpg" alt="笑着活下去:周星驰喜剧里的人生真相" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">风速客</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/3Jg7ynMLJQ/%E7%AC%91%E7%9D%80%E6%B4%BB%E4%B8%8B%E5%8E%BB%E5%91%A8%E6%98%9F%E9%A9%B0%E5%96%9C%E5%89%A7%E9%87%8C%E7%9A%84%E4%BA%BA%E7%94%9F%E7%9C%9F%E7%9B%B8.html</link>
-<guid isPermaLink="false">zlibrary-c6a0a5be965c4a43</guid>
+<guid isPermaLink="false">zlibrary-f65eec58ff4521bd</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>闲来笔潭</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/OJ3Za24MEQ/%E9%97%B2%E6%9D%A5%E7%AC%94%E6%BD%AD.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/e34cde89b76fda21e4f13c2261c7b3483a7899a5dfc18d4f943ac7f4f922fd3b.jpg" alt="闲来笔潭" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">人民出版社</div><div style="color: #007acc; font-style: italic;">吴官正</div><div style="color: #888;">2013</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/OJ3Za24MEQ/%E9%97%B2%E6%9D%A5%E7%AC%94%E6%BD%AD.html</link>
-<guid isPermaLink="false">zlibrary-c0472b2637c1682d</guid>
+<guid isPermaLink="false">zlibrary-59fff59b389cc621</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>苏东坡全传</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/rEMMn6YzEm/%E8%8B%8F%E4%B8%9C%E5%9D%A1%E5%85%A8%E4%BC%A0.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/20f2b2fecadc9ee59fbe3b6570fbbe4198fa3d874c695111aa69f2ecbc41d016.jpg" alt="苏东坡全传" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">度阴山</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/rEMMn6YzEm/%E8%8B%8F%E4%B8%9C%E5%9D%A1%E5%85%A8%E4%BC%A0.html</link>
-<guid isPermaLink="false">zlibrary-1251a76b20b1d6ba</guid>
+<guid isPermaLink="false">zlibrary-823f576503ca18b3</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>省委班子(全四册)</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/yJaWVQ2a18/%E7%9C%81%E5%A7%94%E7%8F%AD%E5%AD%90%E5%85%A8%E5%9B%9B%E5%86%8C.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/ee8745bdf99ce1c563e70ad198f93955a7f716eff8a13e05476ff2040cde1c80.jpg" alt="省委班子(全四册)" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">许开祯</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/yJaWVQ2a18/%E7%9C%81%E5%A7%94%E7%8F%AD%E5%AD%90%E5%85%A8%E5%9B%9B%E5%86%8C.html</link>
-<guid isPermaLink="false">zlibrary-c816ef2bcfc74095</guid>
+<guid isPermaLink="false">zlibrary-8e1a62801c0982da</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>人间烟火2.0:人类学家眼中的数字中国</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/n1yx4gR9w8/%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB20%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/91d8d7affeae42208e2472ede889fa2ce158eea538dbb24fbac8b408acfcad01.jpg" alt="人间烟火2.0:人类学家眼中的数字中国" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">【英】丹尼尔·米勒</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/n1yx4gR9w8/%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB20%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD.html</link>
-<guid isPermaLink="false">zlibrary-39cf76397ee040c8</guid>
+<guid isPermaLink="false">zlibrary-169b66e30e7d9a22</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>李白:漂泊天涯与愁心寄月</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/vw7Z9K3eJA/%E6%9D%8E%E7%99%BD%E6%BC%82%E6%B3%8A%E5%A4%A9%E6%B6%AF%E4%B8%8E%E6%84%81%E5%BF%83%E5%AF%84%E6%9C%88.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/30df3882af5dc79c44c0adc7097b718830b0d0ddda2b28e7a27dac430da63661.jpg" alt="李白:漂泊天涯与愁心寄月" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">(韩)金文京</div><div style="color: #888;">2025</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/vw7Z9K3eJA/%E6%9D%8E%E7%99%BD%E6%BC%82%E6%B3%8A%E5%A4%A9%E6%B6%AF%E4%B8%8E%E6%84%81%E5%BF%83%E5%AF%84%E6%9C%88.html</link>
-<guid isPermaLink="false">zlibrary-11ee2877e37daa01</guid>
+<guid isPermaLink="false">zlibrary-c875a2919b7c15c6</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>寇准</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/x1AmRpeB1y/%E5%AF%87%E5%87%86.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/ceb07a12afd925ff16aa9a80dcfb4ec3153c17b7c5a4cd7cbecfa7423344213f.jpg" alt="寇准" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">金步摇</div><div style="color: #888;">2021</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/x1AmRpeB1y/%E5%AF%87%E5%87%86.html</link>
-<guid isPermaLink="false">zlibrary-e0b9f95bd7f21d74</guid>
+<guid isPermaLink="false">zlibrary-235bd30d57710f60</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>推敲“自我” : 小说在十八世纪的英国(修订版)</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/21r3466qEd/%E6%8E%A8%E6%95%B2%E8%87%AA%E6%88%91-%E5%B0%8F%E8%AF%B4%E5%9C%A8%E5%8D%81%E5%85%AB%E4%B8%96%E7%BA%AA%E7%9A%84%E8%8B%B1%E5%9B%BD%E4%BF%AE%E8%AE%A2%E7%89%88.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/9857f68a22cb44c2cdd1d9ed7102ec45e922d67b9a09d9248c352a8a4a052b38.jpg" alt="推敲“自我” : 小说在十八世纪的英国(修订版)" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">生活·读书·新知三联书店</div><div style="color: #007acc; font-style: italic;">黄梅</div><div style="color: #888;">2025</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/21r3466qEd/%E6%8E%A8%E6%95%B2%E8%87%AA%E6%88%91-%E5%B0%8F%E8%AF%B4%E5%9C%A8%E5%8D%81%E5%85%AB%E4%B8%96%E7%BA%AA%E7%9A%84%E8%8B%B1%E5%9B%BD%E4%BF%AE%E8%AE%A2%E7%89%88.html</link>
-<guid isPermaLink="false">zlibrary-4cba9c5351b384f0</guid>
+<guid isPermaLink="false">zlibrary-c0748ab9a7b34bed</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>黄宗羲传:游侠、鸿儒与哲人</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/O10Z2P85J3/%E9%BB%84%E5%AE%97%E7%BE%B2%E4%BC%A0%E6%B8%B8%E4%BE%A0%E9%B8%BF%E5%84%92%E4%B8%8E%E5%93%B2%E4%BA%BA.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/49eb22a417909a15681f0ff6c255b28918d58d92a8b316007309a36d359a53f8.jpg" alt="黄宗羲传:游侠、鸿儒与哲人" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">李洁非</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/O10Z2P85J3/%E9%BB%84%E5%AE%97%E7%BE%B2%E4%BC%A0%E6%B8%B8%E4%BE%A0%E9%B8%BF%E5%84%92%E4%B8%8E%E5%93%B2%E4%BA%BA.html</link>
-<guid isPermaLink="false">zlibrary-93c7511414e611e5</guid>
+<guid isPermaLink="false">zlibrary-bcc1b9cd7b80d38c</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>无龄时代:一场关于技术、进化与人性的对话</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/21r346lqEd/%E6%97%A0%E9%BE%84%E6%97%B6%E4%BB%A3%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E8%BF%9B%E5%8C%96%E4%B8%8E%E4%BA%BA%E6%80%A7%E7%9A%84%E5%AF%B9%E8%AF%9D.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/fdaaa7566331ce3698a6657e795d52f589a6b79a83e7db76b727754cb75760fb.jpg" alt="无龄时代:一场关于技术、进化与人性的对话" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">丁敏(Min Ding)</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/21r346lqEd/%E6%97%A0%E9%BE%84%E6%97%B6%E4%BB%A3%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E8%BF%9B%E5%8C%96%E4%B8%8E%E4%BA%BA%E6%80%A7%E7%9A%84%E5%AF%B9%E8%AF%9D.html</link>
-<guid isPermaLink="false">zlibrary-43a6d6b2041ae39a</guid>
+<guid isPermaLink="false">zlibrary-6c95dbddce7843fe</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>侦探偶尔狮性大发</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/nJjydGxYEg/%E4%BE%A6%E6%8E%A2%E5%81%B6%E5%B0%94%E7%8B%AE%E6%80%A7%E5%A4%A7%E5%8F%91.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/9a99a3c8e770e1c3ca4099c533b66a4b9b22cc0f21d498c8248c772f3f18660d.jpg" alt="侦探偶尔狮性大发" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">东川笃哉</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/nJjydGxYEg/%E4%BE%A6%E6%8E%A2%E5%81%B6%E5%B0%94%E7%8B%AE%E6%80%A7%E5%A4%A7%E5%8F%91.html</link>
-<guid isPermaLink="false">zlibrary-57e0c69348e26b30</guid>
+<guid isPermaLink="false">zlibrary-7c313eb9f52191e4</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>悬命(《抓特务》原著)</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/BwV4n0xWE0/%E6%82%AC%E5%91%BD%E6%8A%93%E7%89%B9%E5%8A%A1%E5%8E%9F%E8%91%97.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/cced6e009784dec4807324dc6fcdb6e6c953b878ef8150d93f314b0b2de29f35.jpg" alt="悬命(《抓特务》原著)" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">张策</div><div style="color: #888;">2025</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/BwV4n0xWE0/%E6%82%AC%E5%91%BD%E6%8A%93%E7%89%B9%E5%8A%A1%E5%8E%9F%E8%91%97.html</link>
-<guid isPermaLink="false">zlibrary-ceb4fb35df223a8a</guid>
+<guid isPermaLink="false">zlibrary-1acb945563620650</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>武则天研究</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/nEmd46eV1r/%E6%AD%A6%E5%88%99%E5%A4%A9%E7%A0%94%E7%A9%B6.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/bf7171af7a49eb83e88dfafa8fbbe8185ec71155b946d48a46a9ec456106fafe.jpg" alt="武则天研究" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">四川人民出版社</div><div style="color: #007acc; font-style: italic;">孟宪实</div><div style="color: #888;">2021</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/nEmd46eV1r/%E6%AD%A6%E5%88%99%E5%A4%A9%E7%A0%94%E7%A9%B6.html</link>
-<guid isPermaLink="false">zlibrary-2e52f410f05ee114</guid>
+<guid isPermaLink="false">zlibrary-901c8999798e0534</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>极简中国内衣史</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/rJx4PgdvJp/%E6%9E%81%E7%AE%80%E4%B8%AD%E5%9B%BD%E5%86%85%E8%A1%A3%E5%8F%B2.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/4e8949cfcb691711ae0aba1e4d4aafe7046a2783c86f9d72c1e2813064bff3a9.jpg" alt="极简中国内衣史" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">黄强</div><div style="color: #888;">2025</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/rJx4PgdvJp/%E6%9E%81%E7%AE%80%E4%B8%AD%E5%9B%BD%E5%86%85%E8%A1%A3%E5%8F%B2.html</link>
-<guid isPermaLink="false">zlibrary-fc1f5c7d44f414f2</guid>
+<guid isPermaLink="false">zlibrary-f454b92dd95cefc6</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>仿制药的故事</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/N1N6n8p51B/%E4%BB%BF%E5%88%B6%E8%8D%AF%E7%9A%84%E6%95%85%E4%BA%8B.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/f0f9a78e5a0173bd13a19edaf235471a70442a12884e4ee83bcb60bbc0a01072.jpg" alt="仿制药的故事" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">【美】杰里米·A.格林</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/N1N6n8p51B/%E4%BB%BF%E5%88%B6%E8%8D%AF%E7%9A%84%E6%95%85%E4%BA%8B.html</link>
-<guid isPermaLink="false">zlibrary-e2c207085a76e7d8</guid>
+<guid isPermaLink="false">zlibrary-fb5cdbcd5b3329c5</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>情绪的本质</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/e1LYnQ07E8/%E6%83%85%E7%BB%AA%E7%9A%84%E6%9C%AC%E8%B4%A8.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/dd7cb6ec65575800b79b55eca49792c345adb355dc3e022e91050b173cb60abb.jpg" alt="情绪的本质" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">[美]大卫·J.安德森</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/e1LYnQ07E8/%E6%83%85%E7%BB%AA%E7%9A%84%E6%9C%AC%E8%B4%A8.html</link>
-<guid isPermaLink="false">zlibrary-1b22ec3bfe9b947c</guid>
+<guid isPermaLink="false">zlibrary-ff30244f7cf680bb</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>利他的代价</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/OJ3Za2bOEQ/%E5%88%A9%E4%BB%96%E7%9A%84%E4%BB%A3%E4%BB%B7.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/9166e48014709002f51f9390bec1bb0abb9944291456a8dfde31867b1c7fbcf4.jpg" alt="利他的代价" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">【英】大卫·埃德蒙兹</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/OJ3Za2bOEQ/%E5%88%A9%E4%BB%96%E7%9A%84%E4%BB%A3%E4%BB%B7.html</link>
-<guid isPermaLink="false">zlibrary-6c899932c0f38649</guid>
+<guid isPermaLink="false">zlibrary-990602e8ace284ef</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>永存我的话语:曼德尔施塔姆沃罗涅日诗集</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/Ww6ZMYvdw7/%E6%B0%B8%E5%AD%98%E6%88%91%E7%9A%84%E8%AF%9D%E8%AF%AD%E6%9B%BC%E5%BE%B7%E5%B0%94%E6%96%BD%E5%A1%94%E5%A7%86%E6%B2%83%E7%BD%97%E6%B6%85%E6%97%A5%E8%AF%97%E9%9B%86.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/26f643604bdd06147bd5d1d582f88bebb622ef2c6e866367614d0cf5602ab77a.jpg" alt="永存我的话语:曼德尔施塔姆沃罗涅日诗集" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">北京联合出版公司·雅众文化</div><div style="color: #007acc; font-style: italic;">【俄】奥西普·曼德尔施塔姆</div><div style="color: #888;">2024</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/Ww6ZMYvdw7/%E6%B0%B8%E5%AD%98%E6%88%91%E7%9A%84%E8%AF%9D%E8%AF%AD%E6%9B%BC%E5%BE%B7%E5%B0%94%E6%96%BD%E5%A1%94%E5%A7%86%E6%B2%83%E7%BD%97%E6%B6%85%E6%97%A5%E8%AF%97%E9%9B%86.html</link>
-<guid isPermaLink="false">zlibrary-21ed198f35e370f0</guid>
+<guid isPermaLink="false">zlibrary-a5160dc1ac30c1e6</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>中国撸猫简史</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/rEMMn6lkEm/%E4%B8%AD%E5%9B%BD%E6%92%B8%E7%8C%AB%E7%AE%80%E5%8F%B2.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/3e11fec2a88cfc07ac593038c2bf9008beea39e5560979720f1b64fe3465b977.jpg" alt="中国撸猫简史" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">中华书局</div><div style="color: #007acc; font-style: italic;">侯印国; 李嘉宇</div><div style="color: #888;">2024</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/rEMMn6lkEm/%E4%B8%AD%E5%9B%BD%E6%92%B8%E7%8C%AB%E7%AE%80%E5%8F%B2.html</link>
-<guid isPermaLink="false">zlibrary-f0245eda36628485</guid>
+<guid isPermaLink="false">zlibrary-b26dbf389db7e6ae</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>鸦片税收与清末新政(修订版)</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/mJdV74Rz1x/%E9%B8%A6%E7%89%87%E7%A8%8E%E6%94%B6%E4%B8%8E%E6%B8%85%E6%9C%AB%E6%96%B0%E6%94%BF%E4%BF%AE%E8%AE%A2%E7%89%88.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/105db6c4b3dad873f669b32d2e7c555d552cd62d6b234d0809d3ec9d1b48f299.jpg" alt="鸦片税收与清末新政(修订版)" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">刘增合</div><div style="color: #888;">2020</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/mJdV74Rz1x/%E9%B8%A6%E7%89%87%E7%A8%8E%E6%94%B6%E4%B8%8E%E6%B8%85%E6%9C%AB%E6%96%B0%E6%94%BF%E4%BF%AE%E8%AE%A2%E7%89%88.html</link>
-<guid isPermaLink="false">zlibrary-df6f3c37be6813eb</guid>
+<guid isPermaLink="false">zlibrary-6da6140f78869458</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>黄色房间</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/yJaWVQqW18/%E9%BB%84%E8%89%B2%E6%88%BF%E9%97%B4.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/b815da422c758a1376a2c34aba2939c06ab93912e7d314aa09e0d9b42d11f87e.jpg" alt="黄色房间" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">[英]乔治·西尔泰什著</div><div style="color: #888;">2024</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/yJaWVQqW18/%E9%BB%84%E8%89%B2%E6%88%BF%E9%97%B4.html</link>
-<guid isPermaLink="false">zlibrary-0b85b321282bb5b3</guid>
+<guid isPermaLink="false">zlibrary-cdfdf7f3bd22e0c2</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>情热的法则:日本著名女作家情感小说选</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/n1yx4g0Zw8/%E6%83%85%E7%83%AD%E7%9A%84%E6%B3%95%E5%88%99%E6%97%A5%E6%9C%AC%E8%91%97%E5%90%8D%E5%A5%B3%E4%BD%9C%E5%AE%B6%E6%83%85%E6%84%9F%E5%B0%8F%E8%AF%B4%E9%80%89.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/029f63666125997e5d3731ab68c3bb76969ab3a3ee2396c898de09c6927c9ae0.jpg" alt="情热的法则:日本著名女作家情感小说选" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">小池理真子等</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/n1yx4g0Zw8/%E6%83%85%E7%83%AD%E7%9A%84%E6%B3%95%E5%88%99%E6%97%A5%E6%9C%AC%E8%91%97%E5%90%8D%E5%A5%B3%E4%BD%9C%E5%AE%B6%E6%83%85%E6%84%9F%E5%B0%8F%E8%AF%B4%E9%80%89.html</link>
-<guid isPermaLink="false">zlibrary-3076f39bc85f3920</guid>
+<guid isPermaLink="false">zlibrary-80f2c5772543b14e</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>奋斗在新明朝</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/M1YjZk6oE2/%E5%A5%8B%E6%96%97%E5%9C%A8%E6%96%B0%E6%98%8E%E6%9C%9D.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/7f49cb9d17abd78698c8dbc29193268c976959560df5f59f39e10e8c5509be55.jpg" alt="奋斗在新明朝" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">阡陌居</div><div style="color: #007acc; font-style: italic;">随轻风去</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/M1YjZk6oE2/%E5%A5%8B%E6%96%97%E5%9C%A8%E6%96%B0%E6%98%8E%E6%9C%9D.html</link>
-<guid isPermaLink="false">zlibrary-352bba80de99aa32</guid>
+<guid isPermaLink="false">zlibrary-390dbbd1f2036f5f</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>公共领域的结构转型</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/rJx4PV7XJp/%E5%85%AC%E5%85%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E7%BB%93%E6%9E%84%E8%BD%AC%E5%9E%8B.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/09214f48ac40f042db5e6657461b36e63a0157ae7d663a999223a849a2c13e84.jpg" alt="公共领域的结构转型" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">学林出版社</div><div style="color: #007acc; font-style: italic;">尤尔根·哈贝马斯 (Jürgen Habermas)</div><div style="color: #888;">1999</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/rJx4PV7XJp/%E5%85%AC%E5%85%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E7%BB%93%E6%9E%84%E8%BD%AC%E5%9E%8B.html</link>
-<guid isPermaLink="false">zlibrary-317958d2abee9e27</guid>
+<guid isPermaLink="false">zlibrary-a250dad0254ee878</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>脑洞三国</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/Ww6ZMjqZw7/%E8%84%91%E6%B4%9E%E4%B8%89%E5%9B%BD.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/50b122ba1b7ddf20a7099dd9c235bcb19c6fc808c27a020d1f50b4a8ad9685fc.jpg" alt="脑洞三国" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">电子工业出版社</div><div style="color: #007acc; font-style: italic;">黄翔; 陈琛</div><div style="color: #888;">2025</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/Ww6ZMjqZw7/%E8%84%91%E6%B4%9E%E4%B8%89%E5%9B%BD.html</link>
-<guid isPermaLink="false">zlibrary-44ec9de22347ff8a</guid>
+<guid isPermaLink="false">zlibrary-1268c36af3f1d49c</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
 <title>九型人格:人人都应该学习的自我认知课</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/mJdV7GnX1x/%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC%E4%BA%BA%E4%BA%BA%E9%83%BD%E5%BA%94%E8%AF%A5%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5%E8%AF%BE.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/2615be39d2c09ea50f92b329bfe555090fc70ff4de17fed261b1038c20665d6a.jpg" alt="九型人格:人人都应该学习的自我认知课" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">电子工业出版社</div><div style="color: #007acc; font-style: italic;">刘永中; 关雪芳; 邱建雄</div><div style="color: #888;">2025</div></td></tr></table>]]></description>
 <link>https://tw.zlib.bz/book/mJdV7GnX1x/%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC%E4%BA%BA%E4%BA%BA%E9%83%BD%E5%BA%94%E8%AF%A5%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5%E8%AF%BE.html</link>
-<guid isPermaLink="false">zlibrary-fa37231bb029c9b3</guid>
+<guid isPermaLink="false">zlibrary-3f9676f25e672c06</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
@@ -197,7 +211,7 @@
 【嘗試紀錄】<br>
 第1次 成功]]></description>
 <link>https://tw.zlib.bz/s/?languages[]=traditional+chinese&amp;languages[]=chinese&amp;extensions[]=EPUB&amp;order=date</link>
-<guid isPermaLink="false">zlibrary-258ebb787ad9432c</guid>
+<guid isPermaLink="false">zlibrary-e69fcca1ce2a33ef</guid>
 <pubDate>Tue, 25 Aug 2026 03:13:24 +0000</pubDate>
 </item>
 <item>
