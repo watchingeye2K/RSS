@@ -4,12 +4,19 @@
     <title>JA_VDB_RSS_v2</title>
     <link>https://javdb.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Sep 2026 20:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:21 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_RSS_v2</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟢 狀態正常 | 使用 JAVDB_COM | 本次新增 0 筆</title>
+      <link>urn:javdb:status:2026-09-08T00:00:21.872556+00:00</link>
+      <description><![CDATA[執行時間：2026-09-08 08:00 台北時間<br>使用候補：JAVDB_COM<br>本次新增：0 筆]]></description>
+      <guid isPermaLink="false">urn:javdb:status:2026-09-08T00:00:21.872556+00:00</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:21 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 狀態正常 | 使用 JAVDB_COM | 本次新增 0 筆</title>
       <link>urn:javdb:status:2026-09-07T20:00:27.371690+00:00</link>
@@ -2142,13 +2149,6 @@
       <description><![CDATA[執行時間：2026-08-25 11:20 台北時間<br>使用候補：JAVDB_COM<br>本次新增：0 筆]]></description>
       <guid isPermaLink="false">urn:javdb:status:2026-08-25T03:20:43.077754+00:00</guid>
       <pubDate>Tue, 25 Aug 2026 03:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟢 狀態正常 | 使用 JAVDB_COM | 本次新增 0 筆</title>
-      <link>urn:javdb:status:2026-08-24T21:05:31.531704+00:00</link>
-      <description><![CDATA[執行時間：2026-08-25 05:05 台北時間<br>使用候補：JAVDB_COM<br>本次新增：0 筆]]></description>
-      <guid isPermaLink="false">urn:javdb:status:2026-08-24T21:05:31.531704+00:00</guid>
-      <pubDate>Mon, 24 Aug 2026 21:05:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
