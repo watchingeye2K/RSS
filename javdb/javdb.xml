@@ -4,12 +4,19 @@
     <title>JA_VDB_RSS_v2</title>
     <link>https://javdb.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 19 Sep 2026 20:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:00:26 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_RSS_v2</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🔴 狀態異常 | 全部候補失敗，需要人工介入</title>
+      <link>urn:javdb:status:2026-09-20T00:00:26.013940+00:00</link>
+      <description><![CDATA[執行時間：2026-09-20 08:00 台北時間<br>JAVDB_COM：列表頁抓取失敗：[列表頁] 重試 3 次仍失敗，最後錯誤：目標網站回應狀態碼異常: 403]]></description>
+      <guid isPermaLink="false">urn:javdb:status:2026-09-20T00:00:26.013940+00:00</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:26 +0000</pubDate>
+    </item>
     <item>
       <title>🔴 狀態異常 | 全部候補失敗，需要人工介入</title>
       <link>urn:javdb:status:2026-09-19T20:00:28.033656+00:00</link>
