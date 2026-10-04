@@ -4,24 +4,15 @@
 <title>Z-Library</title>
 <link>https://tw.zlib.bz</link>
 <description>from 2025.03.29</description>
-<<<<<<< HEAD
-<lastBuildDate>Sat, 03 Oct 2026 21:57:49 +0000</lastBuildDate>
-=======
-<lastBuildDate>Sat, 03 Oct 2026 22:07:00 +0000</lastBuildDate>
->>>>>>> fd4ed31 (chore(zlibrary): 自動更新去重狀態與 RSS 輸出)
+<lastBuildDate>Sun, 04 Oct 2026 00:09:14 +0000</lastBuildDate>
 <image>
 <url>https://raw.githubusercontent.com/watchingeye2K/RSS/main/zlibrary/favicon.png</url>
 <title>Z-Library</title>
 <link>https://tw.zlib.bz</link>
 </image>
 <item>
-<<<<<<< HEAD
-<title>🔴 05:49 2026.10.04｜執行異常：所有候補網域（共 2 組：https://tw.zlib.bz, https://zh.zlib.bz）都失敗</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/s/?languages[]=traditional+chinese&languages[]=chinese&extensions[]=EPUB&order=date rel="noopener noreferrer" target="_blank" ><img src="https://raw.githubusercontent.com/watchingeye2K/RSS/main/zlibrary/favicon.png" alt="Z-Library" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;">檢查時間：2026-10-04 05:49:21（UTC+8）<br>
-=======
-<title>🔴 05:58 2026.10.04｜執行異常：所有候補網域（共 2 組：https://tw.zlib.bz, https://zh.zlib.bz）都失敗</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/s/?languages[]=traditional+chinese&languages[]=chinese&extensions[]=EPUB&order=date rel="noopener noreferrer" target="_blank" ><img src="https://raw.githubusercontent.com/watchingeye2K/RSS/main/zlibrary/favicon.png" alt="Z-Library" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;">檢查時間：2026-10-04 05:58:33（UTC+8）<br>
->>>>>>> fd4ed31 (chore(zlibrary): 自動更新去重狀態與 RSS 輸出)
+<title>🔴 08:00 2026.10.04｜執行異常：所有候補網域（共 2 組：https://tw.zlib.bz, https://zh.zlib.bz）都失敗</title>
+<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/s/?languages[]=traditional+chinese&languages[]=chinese&extensions[]=EPUB&order=date rel="noopener noreferrer" target="_blank" ><img src="https://raw.githubusercontent.com/watchingeye2K/RSS/main/zlibrary/favicon.png" alt="Z-Library" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;">檢查時間：2026-10-04 08:00:48（UTC+8）<br>
 【摘要】執行失敗（所有候補網域皆失敗）<br>
 <br>
 【候補網域測試紀錄】<br>
@@ -35,13 +26,27 @@
 <br>
 【診斷】詳見上方【候補網域測試紀錄】</td></tr></table>]]></description>
 <link>https://tw.zlib.bz/s/?languages[]=traditional+chinese&amp;languages[]=chinese&amp;extensions[]=EPUB&amp;order=date</link>
-<<<<<<< HEAD
+<guid isPermaLink="false">zlibrary-d2df03080e0203c2</guid>
+<pubDate>Sun, 04 Oct 2026 00:00:49 +0000</pubDate>
+</item>
+<item>
+<title>🔴 05:49 2026.10.04｜執行異常：所有候補網域（共 2 組：https://tw.zlib.bz, https://zh.zlib.bz）都失敗</title>
+<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/s/?languages[]=traditional+chinese&languages[]=chinese&extensions[]=EPUB&order=date rel="noopener noreferrer" target="_blank" ><img src="https://raw.githubusercontent.com/watchingeye2K/RSS/main/zlibrary/favicon.png" alt="Z-Library" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;">檢查時間：2026-10-04 05:49:21（UTC+8）<br>
+【摘要】執行失敗（所有候補網域皆失敗）<br>
+<br>
+【候補網域測試紀錄】<br>
+✗ https://tw.zlib.bz → 失敗（（無額外診斷資訊））<br>
+✗ https://zh.zlib.bz → 失敗（（無額外診斷資訊））<br>
+<br>
+【嘗試紀錄】<br>
+（本次未進行任何抓取嘗試）<br>
+<br>
+【失敗原因】所有候補網域（共 2 組：https://tw.zlib.bz, https://zh.zlib.bz）都失敗<br>
+<br>
+【診斷】詳見上方【候補網域測試紀錄】</td></tr></table>]]></description>
+<link>https://tw.zlib.bz/s/?languages[]=traditional+chinese&amp;languages[]=chinese&amp;extensions[]=EPUB&amp;order=date</link>
 <guid isPermaLink="false">zlibrary-56b4c553a91f1189</guid>
 <pubDate>Sat, 03 Oct 2026 21:49:22 +0000</pubDate>
-=======
-<guid isPermaLink="false">zlibrary-80ada7a4a0557f4d</guid>
-<pubDate>Sat, 03 Oct 2026 21:58:34 +0000</pubDate>
->>>>>>> fd4ed31 (chore(zlibrary): 自動更新去重狀態與 RSS 輸出)
 </item>
 <item>
 <title>🟢 04:00 2026.10.04｜新增 1 本書籍</title>
@@ -8619,48 +8624,6 @@
 <link>https://tw.zlib.bz/book/lwzBZkRmwy/%E7%AB%B9%E4%B9%8B%E9%81%93%E4%BB%8E%E4%B8%89%E6%98%9F%E5%A0%86%E5%88%B0%E5%9C%B0%E4%B8%AD%E6%B5%B7.html</link>
 <guid isPermaLink="false">zlibrary-db413adbd62aae6f</guid>
 <pubDate>Sun, 20 Sep 2026 00:00:48 +0000</pubDate>
-</item>
-<item>
-<title>摇滚:一部历史,1964~1977</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/9w5ZBOy61Y/%E6%91%87%E6%BB%9A%E4%B8%80%E9%83%A8%E5%8E%86%E5%8F%B219641977.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/033a9a8e7f8b5a9c9910959de64669cf3b90594607716bb15d2cb0063c81c2bc.jpg" alt="摇滚:一部历史,1964~1977" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">社会科学文献出版社</div><div style="color: #007acc; font-style: italic;">〔美〕埃德·沃德 著；经雷 译</div><div style="color: #888;">2023</div></td></tr></table>]]></description>
-<link>https://tw.zlib.bz/book/9w5ZBOy61Y/%E6%91%87%E6%BB%9A%E4%B8%80%E9%83%A8%E5%8E%86%E5%8F%B219641977.html</link>
-<guid isPermaLink="false">zlibrary-0ae9c2a0e7ad2495</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:47 +0000</pubDate>
-</item>
-<item>
-<title>王公之泪:印度的兵变、金钱与婚姻(1805—1905)</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/nEWXrx5QJ7/%E7%8E%8B%E5%85%AC%E4%B9%8B%E6%B3%AA%E5%8D%B0%E5%BA%A6%E7%9A%84%E5%85%B5%E5%8F%98%E9%87%91%E9%92%B1%E4%B8%8E%E5%A9%9A%E5%A7%BB18051905.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/12d84f0252bdb5d00b489feb9896fb8f4188d641c2a229af6f81c1d386eb3c4f.jpg" alt="王公之泪:印度的兵变、金钱与婚姻(1805—1905)" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">斐迪南·芒特 著；陆大鹏 刘晓晖 译</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
-<link>https://tw.zlib.bz/book/nEWXrx5QJ7/%E7%8E%8B%E5%85%AC%E4%B9%8B%E6%B3%AA%E5%8D%B0%E5%BA%A6%E7%9A%84%E5%85%B5%E5%8F%98%E9%87%91%E9%92%B1%E4%B8%8E%E5%A9%9A%E5%A7%BB18051905.html</link>
-<guid isPermaLink="false">zlibrary-3b40cfb62561edc0</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:46 +0000</pubDate>
-</item>
-<item>
-<title>大西洋战争: 从15世纪到革命时代</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/vw7ZBOqeJA/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%88%98%E4%BA%89-%E4%BB%8E15%E4%B8%96%E7%BA%AA%E5%88%B0%E9%9D%A9%E5%91%BD%E6%97%B6%E4%BB%A3.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/327174182d2517dd76f6a304ff76ae66a7ae761c087992df7b1308af50dbd225.jpg" alt="大西洋战争: 从15世纪到革命时代" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">陕西人民出版社</div><div style="color: #007acc; font-style: italic;">(英) 杰弗里·普兰克 著；吴敏 译</div><div style="color: #888;">2023</div></td></tr></table>]]></description>
-<link>https://tw.zlib.bz/book/vw7ZBOqeJA/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%88%98%E4%BA%89-%E4%BB%8E15%E4%B8%96%E7%BA%AA%E5%88%B0%E9%9D%A9%E5%91%BD%E6%97%B6%E4%BB%A3.html</link>
-<guid isPermaLink="false">zlibrary-aba4b10ae3374f75</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:45 +0000</pubDate>
-</item>
-<item>
-<title>新世纪第一个十年小说研究</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/n1yxZ7Y9w8/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%81%E5%B9%B4%E5%B0%8F%E8%AF%B4%E7%A0%94%E7%A9%B6.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/9df2f5f6d37f13bb28e5dab0728b8adc4044b1da6cc685876ce49738a1306da7.jpg" alt="新世纪第一个十年小说研究" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">北京大学出版社</div><div style="color: #007acc; font-style: italic;">邵燕君</div><div style="color: #888;">2015</div></td></tr></table>]]></description>
-<link>https://tw.zlib.bz/book/n1yxZ7Y9w8/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%81%E5%B9%B4%E5%B0%8F%E8%AF%B4%E7%A0%94%E7%A9%B6.html</link>
-<guid isPermaLink="false">zlibrary-039a28f019fce7bf</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:44 +0000</pubDate>
-</item>
-<item>
-<title>学习观:从感觉懂了到真正学会</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/nJjy6LDREg/%E5%AD%A6%E4%B9%A0%E8%A7%82%E4%BB%8E%E6%84%9F%E8%A7%89%E6%87%82%E4%BA%86%E5%88%B0%E7%9C%9F%E6%AD%A3%E5%AD%A6%E4%BC%9A.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/0a071e56298ce1554162a5a520cd7a9d7803bdb4fb378e50176f4ac1eb369221.jpg" alt="学习观:从感觉懂了到真正学会" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">电子工业出版社</div><div style="color: #007acc; font-style: italic;">于建国</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
-<link>https://tw.zlib.bz/book/nJjy6LDREg/%E5%AD%A6%E4%B9%A0%E8%A7%82%E4%BB%8E%E6%84%9F%E8%A7%89%E6%87%82%E4%BA%86%E5%88%B0%E7%9C%9F%E6%AD%A3%E5%AD%A6%E4%BC%9A.html</link>
-<guid isPermaLink="false">zlibrary-867805ba687f153e</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:43 +0000</pubDate>
-</item>
-<item>
-<title>黄金台</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/9w5ZBOZn1Y/%E9%BB%84%E9%87%91%E5%8F%B0.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/39e6ccba2cb3ec19dea3b3a275968625afb116cbbaa627688725b9d27cf554ed.jpg" alt="黄金台" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;"></div><div style="color: #007acc; font-style: italic;">苍梧宾白</div><div style="color: #888;">2026</div></td></tr></table>]]></description>
-<link>https://tw.zlib.bz/book/9w5ZBOZn1Y/%E9%BB%84%E9%87%91%E5%8F%B0.html</link>
-<guid isPermaLink="false">zlibrary-5c76bd5c52869eeb</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
