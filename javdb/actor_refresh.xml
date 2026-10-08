@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>JA_VDB_Actor_Refresh</title>
+    <link>https://javdb.com/</link>
+    <description>JavDB 演員資料定期整理的執行回報</description>
+    <lastBuildDate>Thu, 08 Oct 2026 09:47:14 +0000</lastBuildDate>
+    <image>
+      <url>https://javdb.com/favicon-32x32.png</url>
+      <title>JA_VDB_Actor_Refresh</title>
+      <link>https://javdb.com/</link>
+    </image>
+  </channel>
+</rss>
