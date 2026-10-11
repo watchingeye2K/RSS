@@ -4,12 +4,22 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Sat, 10 Oct 2026 04:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 04:00:26 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-10-11 12:00 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/05OX">通野未帆</a>、<a href="https://javdb.com/actors/p39We">桃瀬ひまり</a>、<a href="https://javdb.com/actors/g7WA">水川蓳</a>、<a href="https://javdb.com/actors/8V46V">本郷愛</a>、<a href="https://javdb.com/actors/vdaY">西田那津</a>]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-11T04:00:16.000119+00:00</guid>
+      <pubDate>Sun, 11 Oct 2026 04:00:16 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
       <link>https://javdb.com/</link>
