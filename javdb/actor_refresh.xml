@@ -4,12 +4,22 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Wed, 14 Oct 2026 04:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:42:35 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-10-14 19:42 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/M4Q7">明裏紬</a>、<a href="https://javdb.com/actors/Ewa2">七森莉莉</a>、<a href="https://javdb.com/actors/1G09">有栖花緋</a>、<a href="https://javdb.com/actors/8Ga3">米倉穂香</a>、<a href="https://javdb.com/actors/RJM8">新有菜</a>]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-14T11:42:25.264104+00:00</guid>
+      <pubDate>Wed, 14 Oct 2026 11:42:25 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
       <link>https://javdb.com/</link>
