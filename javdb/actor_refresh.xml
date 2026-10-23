@@ -4,12 +4,22 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Thu, 22 Oct 2026 04:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:00:28 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-10-23 12:00 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/2b4m">前田桃杏</a>、<a href="https://javdb.com/actors/KrE7">幸田ユマ</a>、<a href="https://javdb.com/actors/0dKX">桃乃木香奈</a>、<a href="https://javdb.com/actors/W1AXR">清宮仁愛</a>、<a href="https://javdb.com/actors/9Dx0R">小野坂ゆいか</a>]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-23T04:00:17.916672+00:00</guid>
+      <pubDate>Fri, 23 Oct 2026 04:00:17 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
       <link>https://javdb.com/</link>
@@ -153,29 +163,6 @@
 檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/888O">小川桃果</a>、<a href="https://javdb.com/actors/RdAZp">末広純</a>、<a href="https://javdb.com/actors/X6ab">辻井穗乃果</a>、<a href="https://javdb.com/actors/35nYb">九条滿</a>、<a href="https://javdb.com/actors/nePV6">逢見梨花</a>]]></description>
       <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-10T04:00:14.865427+00:00</guid>
       <pubDate>Sat, 10 Oct 2026 04:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟡 演員整理完成（過程有狀況）| 成功 3 位、沒處理到 2 位</title>
-      <link>https://javdb.com/</link>
-      <description><![CDATA[執行時間：2026-10-09 12:00 台北時間<br>
-合併模式：append_only<br>
-本次排入：5 位<br>
-檢查過、無須更新（3 位）：<a href="https://javdb.com/actors/J26N2">赤目麗蘭</a>、<a href="https://javdb.com/actors/eKEwx">有加里乃乃花</a>、<a href="https://javdb.com/actors/89BV">仲村美羽</a><br>
-沒處理到，下次會再試（2 位）：<br>
-　<a href="https://javdb.com/actors/888O">小川桃果</a>：需要登入，本次放棄<br>
-　<a href="https://javdb.com/actors/RdAZp">末広純</a>：需要登入，本次放棄]]></description>
-      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-09T04:00:17.041622+00:00</guid>
-      <pubDate>Fri, 09 Oct 2026 04:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
-      <link>https://javdb.com/</link>
-      <description><![CDATA[執行時間：2026-10-08 17:47 台北時間<br>
-合併模式：append_only<br>
-本次排入：5 位<br>
-檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/MW44">木下日葵</a>、<a href="https://javdb.com/actors/meyAY">末広純</a>、<a href="https://javdb.com/actors/gDWg">西條琉璃</a>、<a href="https://javdb.com/actors/Zak6">永野司</a>、<a href="https://javdb.com/actors/2b4m">前田桃杏</a>]]></description>
-      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-08T09:47:44.655865+00:00</guid>
-      <pubDate>Thu, 08 Oct 2026 09:47:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
