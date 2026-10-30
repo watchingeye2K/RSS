@@ -4,12 +4,22 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Thu, 29 Oct 2026 04:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:00:25 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-10-30 12:00 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/RdAZp">末広純</a>、<a href="https://javdb.com/actors/z0GW">AIKA</a>、<a href="https://javdb.com/actors/YW7z">西田那津</a>、<a href="https://javdb.com/actors/79BR">永井美雛</a>、<a href="https://javdb.com/actors/QNen">岬奈奈美</a>]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-30T04:00:14.423326+00:00</guid>
+      <pubDate>Fri, 30 Oct 2026 04:00:14 +0000</pubDate>
+    </item>
     <item>
       <title>🟡 演員整理完成（過程有狀況）| 成功 2 位、沒處理到 3 位</title>
       <link>https://javdb.com/</link>
@@ -154,16 +164,6 @@
 　<a href="https://javdb.com/actors/Nw7Dx">今井夏帆</a>：需要登入，本次放棄]]></description>
       <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-17T04:00:14.337917+00:00</guid>
       <pubDate>Sat, 17 Oct 2026 04:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
-      <link>https://javdb.com/</link>
-      <description><![CDATA[執行時間：2026-10-16 12:00 台北時間<br>
-合併模式：append_only<br>
-本次排入：5 位<br>
-檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/35re">水野朝陽</a>、<a href="https://javdb.com/actors/p3kMZ">楪可憐</a>、<a href="https://javdb.com/actors/Rd1Z7">るるちゃん</a>、<a href="https://javdb.com/actors/nenVY">佐藤愛瑠</a>、<a href="https://javdb.com/actors/J2q7B">北岡果林</a>]]></description>
-      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-16T04:00:16.378867+00:00</guid>
-      <pubDate>Fri, 16 Oct 2026 04:00:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
