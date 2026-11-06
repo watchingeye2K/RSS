@@ -4,12 +4,22 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Thu, 05 Nov 2026 04:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:00:26 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-11-06 12:00 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/8Ga3">米倉穂香</a>、<a href="https://javdb.com/actors/RJM8">新有菜</a>、<a href="https://javdb.com/actors/AzWO">木下柚花</a>、<a href="https://javdb.com/actors/33nb">柚木蒂娜</a>、<a href="https://javdb.com/actors/BWy1">藤浦惠</a>]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-06T04:00:15.735560+00:00</guid>
+      <pubDate>Fri, 06 Nov 2026 04:00:15 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
       <link>https://javdb.com/</link>
@@ -160,16 +170,6 @@
 檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/21mp">日下部加奈</a>、<a href="https://javdb.com/actors/RdgVg">宝生みさと</a>、<a href="https://javdb.com/actors/8VGWd">天ノ川つむぎ</a>、<a href="https://javdb.com/actors/35mA3">稲森雅</a>、<a href="https://javdb.com/actors/NOQr">有岡美羽</a>]]></description>
       <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-24T04:00:16.007803+00:00</guid>
       <pubDate>Sat, 24 Oct 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
-      <link>https://javdb.com/</link>
-      <description><![CDATA[執行時間：2026-10-23 12:00 台北時間<br>
-合併模式：append_only<br>
-本次排入：5 位<br>
-檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/2b4m">前田桃杏</a>、<a href="https://javdb.com/actors/KrE7">幸田ユマ</a>、<a href="https://javdb.com/actors/0dKX">桃乃木香奈</a>、<a href="https://javdb.com/actors/W1AXR">清宮仁愛</a>、<a href="https://javdb.com/actors/9Dx0R">小野坂ゆいか</a>]]></description>
-      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-23T04:00:17.916672+00:00</guid>
-      <pubDate>Fri, 23 Oct 2026 04:00:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
