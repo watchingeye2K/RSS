@@ -4,12 +4,31 @@
 <title>Z-Library</title>
 <link>https://tw.zlib.bz</link>
 <description>from 2025.03.29</description>
-<lastBuildDate>Mon, 09 Nov 2026 20:02:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 00:02:21 +0000</lastBuildDate>
 <image>
 <url>https://raw.githubusercontent.com/watchingeye2K/RSS/main/zlibrary/favicon.png</url>
 <title>Z-Library</title>
 <link>https://tw.zlib.bz</link>
 </image>
+<item>
+<title>🔴 08:00 2026.11.10｜執行異常：所有候補網域（共 2 組：https://tw.zlib.bz, https://zh.zlib.bz）都失敗</title>
+<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/s/?languages[]=traditional+chinese&languages[]=chinese&extensions[]=EPUB&order=date rel="noopener noreferrer" target="_blank" ><img src="https://raw.githubusercontent.com/watchingeye2K/RSS/main/zlibrary/favicon.png" alt="Z-Library" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;">檢查時間：2026-11-10 08:00:40（UTC+8）<br>
+【摘要】執行失敗（所有候補網域皆失敗）<br>
+<br>
+【候補網域測試紀錄】<br>
+✗ https://tw.zlib.bz → 失敗（html_length=254800、未比對到已知防護頁面特徵字串，原因不明）<br>
+✗ https://zh.zlib.bz → 失敗（html_length=254800、未比對到已知防護頁面特徵字串，原因不明）<br>
+<br>
+【嘗試紀錄】<br>
+（本次未進行任何抓取嘗試）<br>
+<br>
+【失敗原因】所有候補網域（共 2 組：https://tw.zlib.bz, https://zh.zlib.bz）都失敗<br>
+<br>
+【診斷】詳見上方【候補網域測試紀錄】</td></tr></table>]]></description>
+<link>https://tw.zlib.bz/s/?languages[]=traditional+chinese&amp;languages[]=chinese&amp;extensions[]=EPUB&amp;order=date</link>
+<guid isPermaLink="false">zlibrary-17e3b6634fed0ae6</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:41 +0000</pubDate>
+</item>
 <item>
 <title>🔴 04:00 2026.11.10｜執行異常：所有候補網域（共 2 組：https://tw.zlib.bz, https://zh.zlib.bz）都失敗</title>
 <description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/s/?languages[]=traditional+chinese&languages[]=chinese&extensions[]=EPUB&order=date rel="noopener noreferrer" target="_blank" ><img src="https://raw.githubusercontent.com/watchingeye2K/RSS/main/zlibrary/favicon.png" alt="Z-Library" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;">檢查時間：2026-11-10 04:00:44（UTC+8）<br>
@@ -9683,20 +9702,6 @@
 <link>https://tw.zlib.bz/book/lwzBmbeGwy/%E5%8F%91%E7%8E%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%B7%B1%E5%9C%B3%E6%B7%B1%E5%9C%B378%E8%A1%97%E5%85%A8%E6%99%AF%E7%94%BB%E5%83%8F%E5%8D%97%E5%B1%B1.html</link>
 <guid isPermaLink="false">zlibrary-3ca921aecb38c1a7</guid>
 <pubDate>Tue, 27 Oct 2026 00:00:40 +0000</pubDate>
-</item>
-<item>
-<title>看电影(2024年第11期)</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/5wp6Mby0Ey/%E7%9C%8B%E7%94%B5%E5%BD%B12024%E5%B9%B4%E7%AC%AC11%E6%9C%9F.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/89108161a6c9a69cadf74c4a40bd3532b3f5a78b4ab9d1fe60a1b66260cfd1e5.jpg" alt="看电影(2024年第11期)" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">看电影编辑部</div><div style="color: #007acc; font-style: italic;">看电影全体编辑团队</div><div style="color: #888;">2024</div></td></tr></table>]]></description>
-<link>https://tw.zlib.bz/book/5wp6Mby0Ey/%E7%9C%8B%E7%94%B5%E5%BD%B12024%E5%B9%B4%E7%AC%AC11%E6%9C%9F.html</link>
-<guid isPermaLink="false">zlibrary-36df0c5707bc3b0a</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:39 +0000</pubDate>
-</item>
-<item>
-<title>建设项目经济评价方法与参数(第三版)</title>
-<description><![CDATA[<table style="border: none; border-collapse: collapse; width: 100%;"><tr><td style="border: none; padding-right: 20px; vertical-align: top;"><a href=https://tw.zlib.bz/book/Ww6ZWQ9Zw7/%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%BB%8F%E6%B5%8E%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95%E4%B8%8E%E5%8F%82%E6%95%B0%E7%AC%AC%E4%B8%89%E7%89%88.html rel="noopener noreferrer" target="_blank" ><img src="https://s3proxy-alp2-covers.cdn-zlib.sk/covers100/collections/userbooks/71ab72d16daf090869b43656f29b16b25561560e83a8141dc614c25bd97d8833.jpg" alt="建设项目经济评价方法与参数(第三版)" style="width: 100px; border: none; outline: none; box-shadow: none;"></a></td><td style="border: none; vertical-align: top;"><div style="color: #333;">中国计划出版社</div><div style="color: #007acc; font-style: italic;">国家发展改革委、建设部</div><div style="color: #888;">2006</div></td></tr></table>]]></description>
-<link>https://tw.zlib.bz/book/Ww6ZWQ9Zw7/%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%BB%8F%E6%B5%8E%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95%E4%B8%8E%E5%8F%82%E6%95%B0%E7%AC%AC%E4%B8%89%E7%89%88.html</link>
-<guid isPermaLink="false">zlibrary-542340a80da8ee6e</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
