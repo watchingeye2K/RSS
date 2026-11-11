@@ -4,12 +4,22 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Tue, 10 Nov 2026 04:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:00:25 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-11-11 12:00 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/ZXy46">北野未奈</a>、<a href="https://javdb.com/actors/Y8Mx">古川伊織</a>、<a href="https://javdb.com/actors/meK9R">朝陽惠麻</a>、<a href="https://javdb.com/actors/ZOM6">佐佐木明希</a>、<a href="https://javdb.com/actors/pPQq">由愛可奈</a>]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-11T04:00:14.815807+00:00</guid>
+      <pubDate>Wed, 11 Nov 2026 04:00:14 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
       <link>https://javdb.com/</link>
@@ -156,19 +166,6 @@
 　<a href="https://javdb.com/actors/YW7z">西田那津</a>：需要登入，本次放棄]]></description>
       <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-29T04:00:16.231636+00:00</guid>
       <pubDate>Thu, 29 Oct 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟡 演員整理完成（過程有狀況）| 成功 3 位、沒處理到 2 位</title>
-      <link>https://javdb.com/</link>
-      <description><![CDATA[執行時間：2026-10-28 12:00 台北時間<br>
-合併模式：append_only<br>
-本次排入：5 位<br>
-檢查過、無須更新（3 位）：<a href="https://javdb.com/actors/MmKyJ">玉城夏帆</a>、<a href="https://javdb.com/actors/EnXJ">小倉由菜</a>、<a href="https://javdb.com/actors/RXbR">AIKA</a><br>
-沒處理到，下次會再試（2 位）：<br>
-　<a href="https://javdb.com/actors/RdAZp">末広純</a>：需要登入，本次放棄<br>
-　<a href="https://javdb.com/actors/z0GW">AIKA</a>：需要登入，本次放棄]]></description>
-      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-10-28T04:00:15.142175+00:00</guid>
-      <pubDate>Wed, 28 Oct 2026 04:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
