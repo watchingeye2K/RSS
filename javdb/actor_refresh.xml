@@ -4,12 +4,24 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Mon, 16 Nov 2026 04:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:00:27 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟡 演員整理完成（過程有狀況）| 成功 4 位、沒處理到 1 位</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-11-17 12:00 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（4 位）：<a href="https://javdb.com/actors/X6ab">辻井穗乃果</a>、<a href="https://javdb.com/actors/35nYb">九条滿</a>、<a href="https://javdb.com/actors/nePV6">逢見梨花</a>、<a href="https://javdb.com/actors/05OX">通野未帆</a><br>
+沒處理到，下次會再試（1 位）：<br>
+　<a href="https://javdb.com/actors/888O">小川桃果</a>：需要登入，本次放棄]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-17T04:00:16.077087+00:00</guid>
+      <pubDate>Tue, 17 Nov 2026 04:00:16 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
       <link>https://javdb.com/</link>
@@ -149,16 +161,6 @@
 　<a href="https://javdb.com/actors/1G09">有栖花緋</a>：抓取失敗：[演員頁(無cookie):https://javdb.com/actors/1G09] 重試 3 次仍失敗，最後錯誤：HTTP 403]]></description>
       <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-04T04:00:16.269445+00:00</guid>
       <pubDate>Wed, 04 Nov 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
-      <link>https://javdb.com/</link>
-      <description><![CDATA[執行時間：2026-11-03 12:00 台北時間<br>
-合併模式：append_only<br>
-本次排入：5 位<br>
-檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/rD3r">新井愛麗</a>、<a href="https://javdb.com/actors/Bxw4">永井瑪麗亞</a>、<a href="https://javdb.com/actors/1KBW">JULIA（排除）</a>、<a href="https://javdb.com/actors/0Bw3">吉根柚莉愛（排除）</a>、<a href="https://javdb.com/actors/Bxma">松ゆきの（排除）</a>]]></description>
-      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-03T04:00:14.280427+00:00</guid>
-      <pubDate>Tue, 03 Nov 2026 04:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
