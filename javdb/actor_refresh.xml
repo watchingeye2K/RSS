@@ -4,12 +4,26 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Sat, 21 Nov 2026 04:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:00:24 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟡 演員整理完成（過程有狀況）| 成功 2 位、沒處理到 3 位</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-11-22 12:00 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（2 位）：<a href="https://javdb.com/actors/NxGN">望月彩花</a>、<a href="https://javdb.com/actors/ZzNm">神宮寺奈緒</a><br>
+沒處理到，下次會再試（3 位）：<br>
+　<a href="https://javdb.com/actors/RdAZp">末広純</a>：需要登入，本次放棄<br>
+　<a href="https://javdb.com/actors/z0GW">AIKA</a>：需要登入，本次放棄<br>
+　<a href="https://javdb.com/actors/YW7z">西田那津</a>：需要登入，本次放棄]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-22T04:00:13.219998+00:00</guid>
+      <pubDate>Sun, 22 Nov 2026 04:00:13 +0000</pubDate>
+    </item>
     <item>
       <title>🟡 演員整理完成（過程有狀況）| 成功 2 位、沒處理到 3 位</title>
       <link>https://javdb.com/</link>
@@ -156,16 +170,6 @@
 　<a href="https://javdb.com/actors/X9ne">水野朝陽</a>：需要登入，本次放棄]]></description>
       <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-09T04:00:14.712998+00:00</guid>
       <pubDate>Mon, 09 Nov 2026 04:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
-      <link>https://javdb.com/</link>
-      <description><![CDATA[執行時間：2026-11-08 12:00 台北時間<br>
-合併模式：append_only<br>
-本次排入：5 位<br>
-檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/J2q7B">北岡果林</a>、<a href="https://javdb.com/actors/8pk9">藤森里穂</a>、<a href="https://javdb.com/actors/JbER">葵伊吹</a>、<a href="https://javdb.com/actors/3Or3">有村希</a>、<a href="https://javdb.com/actors/p39wb">斎木香住</a>]]></description>
-      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-08T04:00:15.060452+00:00</guid>
-      <pubDate>Sun, 08 Nov 2026 04:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
