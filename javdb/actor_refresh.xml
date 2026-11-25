@@ -4,12 +4,22 @@
     <title>JA_VDB_Actor_Refresh</title>
     <link>https://javdb.com/</link>
     <description>JavDB 演員資料定期整理的執行回報</description>
-    <lastBuildDate>Tue, 24 Nov 2026 04:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:00:25 +0000</lastBuildDate>
     <image>
       <url>https://javdb.com/favicon-32x32.png</url>
       <title>JA_VDB_Actor_Refresh</title>
       <link>https://javdb.com/</link>
     </image>
+    <item>
+      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
+      <link>https://javdb.com/</link>
+      <description><![CDATA[執行時間：2026-11-25 12:00 台北時間<br>
+合併模式：append_only<br>
+本次排入：5 位<br>
+檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/8BDW">山岸逢花</a>、<a href="https://javdb.com/actors/rD3r">新井愛麗</a>、<a href="https://javdb.com/actors/Bxw4">永井瑪麗亞</a>、<a href="https://javdb.com/actors/1KBW">JULIA（排除）</a>、<a href="https://javdb.com/actors/0Bw3">吉根柚莉愛（排除）</a>]]></description>
+      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-25T04:00:14.408003+00:00</guid>
+      <pubDate>Wed, 25 Nov 2026 04:00:14 +0000</pubDate>
+    </item>
     <item>
       <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
       <link>https://javdb.com/</link>
@@ -157,16 +167,6 @@
 　<a href="https://javdb.com/actors/AzVVw">由愛可奈</a>：需要登入，本次放棄]]></description>
       <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-12T04:00:16.100327+00:00</guid>
       <pubDate>Thu, 12 Nov 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟢 演員整理正常 | 檢查 5 位，皆無須更新</title>
-      <link>https://javdb.com/</link>
-      <description><![CDATA[執行時間：2026-11-11 12:00 台北時間<br>
-合併模式：append_only<br>
-本次排入：5 位<br>
-檢查過、無須更新（5 位）：<a href="https://javdb.com/actors/ZXy46">北野未奈</a>、<a href="https://javdb.com/actors/Y8Mx">古川伊織</a>、<a href="https://javdb.com/actors/meK9R">朝陽惠麻</a>、<a href="https://javdb.com/actors/ZOM6">佐佐木明希</a>、<a href="https://javdb.com/actors/pPQq">由愛可奈</a>]]></description>
-      <guid isPermaLink="false">urn:javdb:actor-refresh:2026-11-11T04:00:14.815807+00:00</guid>
-      <pubDate>Wed, 11 Nov 2026 04:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
